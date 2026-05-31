@@ -1,6 +1,6 @@
 # Olá, sou o Marlon Panerari! 
 
-<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Qxc2d6YnpueDY3cmV4OG1oN2JremR0Ym5ybmF1eDM2MjR6MzFkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTBVMsYIOB0SBP4MVe/giphy.gif" />
+<img align="right" height="250" src="https://github.com/marlonpanerari/marlonpanerari/blob/main/assets/quack.gif?raw=true" />
 
 **`Desenvolvedor Full Stack Junior`**  
 JavaScript • TypeScript • Node.js • NestJS • React
