@@ -16,22 +16,22 @@ Concluí o bootcamp Generation Brasil de Desenvolvimento Web Full Stack JavaScri
         <img 
             alt="Total de estrelas"
             title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/marlonpanerari?color=B45309&style=for-the-badge&labelColor=18181B&logo=star&label=ESTRELAS"
+            src="https://custom-icon-badges.demolab.com/github/stars/marlonpanerari?color=B45309&style=for-the-badge&labelColor=555555&logo=star&label=ESTRELAS"
         />
     </a>
     <a href="https://github.com/marlonpanerari?tab=followers">
         <img 
             alt="Seguidores"
             title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/marlonpanerari?style=for-the-badge&logo=github&logoColor=white&label=SEGUIDORES&labelColor=18181B&color=B45309"
+            src="https://custom-icon-badges.demolab.com/github/followers/marlonpanerari?style=for-the-badge&logo=github&logoColor=white&label=SEGUIDORES&labelColor=555555&color=B45309"
         />
     </a>
     <a href="https://github.com/marlonpanerari">
-        <img 
-            alt="Visitantes"
-            title="Visitantes"
-            src="https://komarev.com/ghpvc/?username=marlonpanerari&style=for-the-badge&color=B45309&labelColor=18181B&label=VISITANTES"
-        />
+<img 
+    alt="Visitantes"
+    title="Visitantes"
+    src="https://komarev.com/ghpvc/?username=marlonpanerari&style=for-the-badge&color=B45309&labelColor=111827&label=⬤%20VISITANTES"
+/>
     </a>
 </p>
 
@@ -67,9 +67,9 @@ Concluí o bootcamp Generation Brasil de Desenvolvimento Web Full Stack JavaScri
 <a href="https://www.linkedin.com/in/marlonpanerari/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://discordapp.com/users/766815432006959145" target="_blank">
+<!--<a href="https://discordapp.com/users/766815432006959145" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
+</a>-->
 <a href="mailto:marlonpanerari@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
